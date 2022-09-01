@@ -1,0 +1,19 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+10.20.28.86 node-1
+10.20.29.241 login
+10.20.30.34 node-2
+10.20.28.81 node-3
+10.20.30.0 node-4
+10.20.28.92 node-5
+10.20.28.3 node-6
+10.20.29.240 node-7
+10.20.30.244 node-8
+10.20.28.224 node-9
+10.20.31.171 node-10
+10.20.28.211 node-11
+10.20.31.253 node-12
+10.20.30.32 node-13
+10.20.31.254 node-14
+10.20.31.154 node-15
+
